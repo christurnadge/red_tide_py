@@ -1,6 +1,6 @@
 # redtidepy
 
-A Python language port of Matlab language code "red_tide" created by Kachelein et al. (2022).
+A Python language port of the Matlab language code "red_tide" created by Kachelein et al. (2022).
 
 The original Matlab code is located at: https://github.com/lkach/red_tide
 
