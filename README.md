@@ -1,4 +1,4 @@
-# redtidepy
+# red_tide_py
 
 A naive Python language port of the Matlab language code "red_tide" created by Luke Kachelein.
 
